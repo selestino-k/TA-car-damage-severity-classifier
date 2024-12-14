@@ -1,0 +1,12 @@
+.dist
+.ipynb_checkpoints
+others
+3x3piximg
+augmdata
+testmodels
+modeltest
+models
+*.keras
+*.h5
+*.hdf5
+*.keras
